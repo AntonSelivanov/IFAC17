@@ -10,7 +10,7 @@ function [hfeas,Pval]=LMI_IFAC16_rem5(A,B,C,g,r,kStar,h,sigma,M)
 % g             = col{g_p,1}
 % r             - relative degree
 % kStar         - large enough scalar such that (2) is feasible 
-% h, sigma      - the event-triggering parameters from (8) 
+% h, sigma      - the event-triggering parameters from (11) 
 % M             - positive scalar such that |k(0)-kStar|<M 
 
 % Output: 
