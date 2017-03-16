@@ -1,6 +1,6 @@
 function [hfeas,Pval]=LMI_IFAC16_th1(A,B,C,g,r,kStar,h,sigma,M)
 % This MATLAB program checks the feasibility of LMIs from Theorem 1 of the paper 
-% A. Selivanov and E. Fridman, "Event-triggered adaptive control of minimum-phase systems," in 20th IFAC World Congress, 2017. 
+% A. Selivanov, E. Fridman, and A. Fradkov, "Event-triggered adaptive control of minimum-phase systems," in 20th IFAC World Congress, 2017. 
 
 % The program uses YALMIP parser (http://users.isy.liu.se/johanl/yalmip/)
 
