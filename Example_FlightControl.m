@@ -1,5 +1,5 @@
 % This MATLAB program checks the feasibility of LMIs from Theorem 1 and Remark 5 of the paper 
-% A. Selivanov and E. Fridman, "Event-triggered adaptive control of minimum-phase systems," in 20th IFAC World Congress, 2017. 
+% A. Selivanov, E. Fridman, and A. Fradkov, "Event-triggered adaptive control of minimum-phase systems," in 20th IFAC World Congress, 2017. 
 
 %% Parameters of the plane 
 a1=[-1.5 -.7]; % uncertain
